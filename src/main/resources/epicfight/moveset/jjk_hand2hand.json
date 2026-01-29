@@ -1,0 +1,27 @@
+{
+  "type": "epicfight:basic",
+  "priority": 10,
+  "attacks": [
+    {
+      "animation": "epicfight:biped/punch_fast",
+      "damage_multiplier": 0.9,
+      "impact_time": 0.06,
+      "recovery_time": 0.12,
+      "cancelable": true
+    },
+    {
+      "animation": "epicfight:biped/kick_fast",
+      "damage_multiplier": 1.0,
+      "impact_time": 0.07,
+      "recovery_time": 0.14,
+      "cancelable": true
+    },
+    {
+      "animation": "epicfight:biped/elbow",
+      "damage_multiplier": 1.1,
+      "impact_time": 0.05,
+      "recovery_time": 0.1,
+      "cancelable": true
+    }
+  ]
+}

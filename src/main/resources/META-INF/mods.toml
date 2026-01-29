@@ -1,0 +1,10 @@
+
+modLoader="javafml"
+loaderVersion="[47,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="jjkcombat"
+version="1.0.0"
+displayName="JJK Hand-to-Hand Epic Fight Addon"
+description="Fast-paced Jujutsu Kaisen style hand-to-hand combat for Epic Fight. No skills added."

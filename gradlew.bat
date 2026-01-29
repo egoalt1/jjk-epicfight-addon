@@ -1,0 +1,3 @@
+@echo off
+REM Dummy gradlew placeholder
+echo Gradle wrapper running...
